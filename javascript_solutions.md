@@ -337,7 +337,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-     let text = document.querySelector(".ps-top .ps-title").style.textAlign = "right";
+     let text = document.querySelector("#d560822win9b .ps-top .ps-title").style.textAlign = "right";
      console.log(text);
 
 ![Output](./assets/Pic29.png)
